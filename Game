@@ -1,0 +1,10 @@
+package com.real.realcraft.game;
+
+public class Game {
+	public int time;
+	
+	public void tick() {
+		time+=5;
+	}
+
+}
